@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\bin\Debug\netcoreapp3.1\Bor.Core.deps.json
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\bin\Debug\netcoreapp3.1\Bor.Core.dll
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\bin\Debug\netcoreapp3.1\Bor.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.dll
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.pdb
